@@ -1,1 +1,6 @@
-# kod_asistanim
+# kod_asistanimBAŞLA.
+2 Birinci sayıyı al (sayi1).
+3 İkinci sayıyı al (sayi2).
+4 toplam = sayi1 + sayi2
+5 ortalama = toplam / 2
+6 ortalama degeri ekrana yazdir
